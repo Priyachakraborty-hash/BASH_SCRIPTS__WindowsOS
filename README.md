@@ -1,1 +1,1 @@
-Bash Scrips useful for learning.
+Bash Scrips
