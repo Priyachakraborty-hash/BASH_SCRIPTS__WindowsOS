@@ -1,1 +1,1 @@
-Bash scripts that i used!
+Bash scripts that i used
