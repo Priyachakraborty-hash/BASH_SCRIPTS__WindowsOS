@@ -2,9 +2,9 @@
 
 counter=0
 
-while [ $counter -lt 5 ]
+while [ $counter -lt 6 ]
 do
-  echo "Looping...."
+  echo "Looping"
   echo "Value of counter is $counter."
   counter=$(( $counter + 1 ))
   sleep 1
